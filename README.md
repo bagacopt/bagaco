@@ -1,7 +1,6 @@
 <h1 align="center">Wassup! I am Tomás (bagaco) 👋</h1>
 
 <p align="center"> I'm a Freelancer / Software Developer </p>
-<p align="center"> New languages, new challenges </p>
 
 <h2> Feel free to look me up! </h2>
 <a href="https://www.linkedin.com/in/tomas-gouveia2005/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
